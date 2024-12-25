@@ -6,4 +6,11 @@
   <version>1.0-SNAPSHOT</version>
   <name>Archetype - Assignment_Q4_Pt3</name>
   <url>http://maven.apache.org</url>
+  <dependencies>
+    <dependency>
+      <groupId>org.json</groupId>
+      <artifactId>json</artifactId>
+      <version>20210307</version> <!-- You can check for the latest version -->
+    </dependency>
+  </dependencies>
 </project>
